@@ -32,5 +32,5 @@ We believe in **open-source** and welcome collaboration.
 * 💼 LinkedIn: [Geekglory Technologies Pvt. Ltd.](https://linkedin.com/company/geekglory-technologies)
 * 📣 Esports Media: Bharat Gaming News (media partner)
 
-[Security]()|[]()|[Work with us]()|[Support]()
+[Security]()|[Work with us]()|[Support]()
 ---|---|---|---
