@@ -1,22 +1,55 @@
 ![banner](https://play-lh.googleusercontent.com/ecBzXc4PwdkBuH-7EIquOROEpYQVGxOAcNRLgFNiO2ZDcLFgHp0juGdv3Cc1FjKaqAo=w3840-h2160-rw)
 
-# Razorpay
+# 👋 Welcome to Geekglory Technologies Pvt. Ltd.
 
-Razorpay aims to revolutionize money management for online businesses by providing clean, developer-friendly APIs and hassle-free integration. We offer a fast, affordable and secure way for merchants, schools, ecommerce and other companies to accept and disburse payments online, own a fully-functional current account and avail working capital loans.
+We are a technology-driven company building digital products across **gaming, esports, fintech, and AI**.
+Our flagship brand **Gameonix Esports & Gaming** brings together gamers, tournaments, and digital marketplaces into one powerful ecosystem.
 
-## Getting Started
+---
 
-To get started with using Razorpay, [signup](https://dashboard.razorpay.com), [check out our docs](https://razorpay.com/docs/), [list of integrations](https://razorpay.com/integrations/), and the [Razorpay App Store](https://razorpay.com/app-store/).
+## 🚀 Our Brands & Products
 
-## Open Source ![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-Open-green)
+* 🎮 **Gameonix Esports & Gaming** – all-in-one gaming platform with tournaments, marketplace, and community features.
+* 🏆 **XFI Esports** – esports talent management, tournaments, and player development.
+* 💳 **Fintech Integrations** – seamless Razorpay-powered payments, gaming credits, and digital gift card solutions.
+* 🤖 **Qorden AI** – multilingual speech analytics & communication (part of NVIDIA Inception Program).
+* 🛠️ **Custom Solutions** – full-stack development for mobile, web, and API-first products.
 
-We believe in the power of open-source, and publish our contributions and open-source projects at [opensource.razorpay.com](https://opensource.razorpay.com).
+---
 
-We are always looking for new ways to improve the experience for developers. We welcome feedback, bug reports, and feature requests from the community!
+## 🔧 Tech Stack
 
-## Hacktoberfest
+* **Languages & Frameworks:** Kotlin, Java, Node.js, Python, React, Next.js
+* **Cloud & Infra:** GCP, Firebase, Cloud Run, Docker, Kubernetes
+* **Databases:** MySQL, Firestore, Redis
+* **Payments & Fintech:** Razorpay, UPI, Wallets, Subscriptions
+* **AI & Analytics:** NVIDIA GPUs, TensorFlow, Speech APIs
 
-We are participating in [Hacktoberfest 2023](https://hacktoberfest.com/). Participate by contributing to Razorpay's open source repositories and receive special goodies. Please see [this page]( https://opensource.razorpay.com/hacktoberfest-2023/) for more details.
+---
+
+## 🌐 Connect With Us
+
+* 🌍 Website: [geekglorytechnologies.in](https://geekglorytechnologies.in)
+* 🎮 Gameonix: [store.gameonix.in](https://store.gameonix.in)
+* 💼 LinkedIn: [Geekglory Technologies Pvt. Ltd.](https://linkedin.com/company/geekglory-technologies)
+* 📣 Esports Media: Bharat Gaming News (media partner)
+
+---
+
+## 🤝 Contribute / Collaborate
+
+We believe in **open-source** and welcome collaboration.
+
+* Explore our public repositories (SDKs, integrations, gaming utilities).
+* Report bugs, suggest features, or submit PRs.
+* Join our community via hackathons, esports events, and developer programs.
+
+---
+
+### 💡 Geekglory Motto
+
+*"Powering the future of gaming, esports, and AI with Gameonix at the core."*
+
 
 ## Follow Us
 
