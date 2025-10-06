@@ -30,7 +30,7 @@ We believe in **open-source** and welcome collaboration.
 * 🌍 Website: [geekglorytechnologies.in](https://geekglorytechnologies.in)
 * 🎮 Gameonix: [gameonix.in](https://gameonix.in)
 * 💼 LinkedIn: [Geekglory Technologies Pvt. Ltd.](https://linkedin.com/company/geekglory-technologies)
-* 📣 Esports Media: Bharat Gaming News (media partner)
+* 📣 Bharat Gaming News: [bharatgamingnews.com](https://bharatgamingnews.com)
 
 [Security]()|[Work with us]()|[Support]()
 ---|---|---
