@@ -28,9 +28,9 @@ We believe in **open-source** and welcome collaboration.
 ## 🌐 Connect With Us
 
 * 🌍 Website: [geekglorytechnologies.in](https://geekglorytechnologies.in)
-* 🎮 Gameonix: [store.gameonix.in](https://store.gameonix.in)
+* 🎮 Gameonix: [gameonix.in](https://gameonix.in)
 * 💼 LinkedIn: [Geekglory Technologies Pvt. Ltd.](https://linkedin.com/company/geekglory-technologies)
 * 📣 Esports Media: Bharat Gaming News (media partner)
 
-[Security](https://hackerone.com/razorpay)|[Code of Conduct](CODE_OF_CONDUCT.md)|[Work with us](https://razorpay.com/jobs)|[Support](https://razorpay.com/support/)
+[Security]()|[]()|[Work with us]()|[Support]()
 ---|---|---|---
