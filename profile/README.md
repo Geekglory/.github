@@ -26,15 +26,6 @@ Our flagship brand **Gameonix Esports & Gaming** brings together gamers, tournam
 
 ---
 
-## 🌐 Connect With Us
-
-* 🌍 Website: [geekglorytechnologies.in](https://geekglorytechnologies.in)
-* 🎮 Gameonix: [store.gameonix.in](https://store.gameonix.in)
-* 💼 LinkedIn: [Geekglory Technologies Pvt. Ltd.](https://linkedin.com/company/geekglory-technologies)
-* 📣 Esports Media: Bharat Gaming News (media partner)
-
----
-
 ## 🤝 Contribute / Collaborate
 
 We believe in **open-source** and welcome collaboration.
@@ -45,17 +36,12 @@ We believe in **open-source** and welcome collaboration.
 
 ---
 
-### 💡 Geekglory Motto
+## 🌐 Connect With Us
 
-*"Powering the future of gaming, esports, and AI with Gameonix at the core."*
-
-
-## Follow Us
-
-- Check out our Engineering Blog at [engineering.razorpay.com](https://engineering.razorpay.com/).
-- Follow our Engineering team on [X.com](https://x.com/RazorpayTech)
-- Check out our stack at [StackShare](https://stackshare.io/companies/razorpay).
-- Follow our Design team on [Twitter](https://twitter.com/razorpay_design) or the [Design Blog](https://design.razorpay.com)
+* 🌍 Website: [geekglorytechnologies.in](https://geekglorytechnologies.in)
+* 🎮 Gameonix: [store.gameonix.in](https://store.gameonix.in)
+* 💼 LinkedIn: [Geekglory Technologies Pvt. Ltd.](https://linkedin.com/company/geekglory-technologies)
+* 📣 Esports Media: Bharat Gaming News (media partner)
 
 [Security](https://hackerone.com/razorpay)|[Code of Conduct](CODE_OF_CONDUCT.md)|[Work with us](https://razorpay.com/jobs)|[Support](https://razorpay.com/support/)
 ---|---|---|---
