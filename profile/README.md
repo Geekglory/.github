@@ -28,8 +28,8 @@ We believe in **open-source** and welcome collaboration.
 ## 🌐 Connect With Us
 
 * 🌍 Website: [geekglorytechnologies.in](https://geekglorytechnologies.in)
-* 🎮 Gameonix: [gameonix.in](https://gameonix.in)
 * 💼 LinkedIn: [Geekglory Technologies Pvt. Ltd.](https://linkedin.com/company/geekglory-technologies)
+* 🎮 Gameonix: [gameonix.in](https://gameonix.in)
 * 📣 Bharat Gaming News: [bharatgamingnews.com](https://bharatgamingnews.com)
 
 [Security]()|[Work with us]()|[Support]()
