@@ -12,7 +12,6 @@ Our flagship brand **Gameonix Esports & Gaming** brings together gamers, tournam
 * 🎮 **Gameonix Esports & Gaming** – all-in-one gaming platform with tournaments, marketplace, and community features.
 * 🏆 **XFI Esports** – esports talent management, tournaments, and player development.
 * 💳 **Fintech Integrations** – seamless Razorpay-powered payments, gaming credits, and digital gift card solutions.
-* 🤖 **Qorden AI** – multilingual speech analytics & communication (part of NVIDIA Inception Program).
 * 🛠️ **Custom Solutions** – full-stack development for mobile, web, and API-first products.
 
 ---
