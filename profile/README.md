@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/razorpay/.github/master/banner.jpg)
+![banner](https://play-lh.googleusercontent.com/ecBzXc4PwdkBuH-7EIquOROEpYQVGxOAcNRLgFNiO2ZDcLFgHp0juGdv3Cc1FjKaqAo=w3840-h2160-rw)
 
 # Razorpay
 
