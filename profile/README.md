@@ -10,19 +10,8 @@ Our flagship brand **Gameonix Esports & Gaming** brings together gamers, tournam
 ## 🚀 Our Brands & Products
 
 * 🎮 **Gameonix Esports & Gaming** – all-in-one gaming platform with tournaments, marketplace, and community features.
-* 🏆 **XFI Esports** – esports talent management, tournaments, and player development.
 * 💳 **Fintech Integrations** – seamless Razorpay-powered payments, gaming credits, and digital gift card solutions.
 * 🛠️ **Custom Solutions** – full-stack development for mobile, web, and API-first products.
-
----
-
-## 🔧 Tech Stack
-
-* **Languages & Frameworks:** Kotlin, Java, Node.js, Python, React, Next.js
-* **Cloud & Infra:** GCP, Firebase, Cloud Run, Docker, Kubernetes
-* **Databases:** MySQL, Firestore, Redis
-* **Payments & Fintech:** Razorpay, UPI, Wallets, Subscriptions
-* **AI & Analytics:** NVIDIA GPUs, TensorFlow, Speech APIs
 
 ---
 
